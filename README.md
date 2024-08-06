@@ -52,8 +52,8 @@ The VBA code used for optimization is provided in the [`optimization_code.bas`](
 
 ## Files Included
 - **`Sadiq_SCADA-Based_Chemical_Process_Optimization_Tool.xlsm`**: The main Excel file containing the tool.
-- **`screenshots/`**: A folder containing screenshots of the different tabs in the Excel tool.
-- **`vba/optimization_code.bas`**: The VBA code used in this project.
+- **`screenshots`**: Screenshots of the different tabs in the Excel tool.
+- **`optimization_code.bas`**: The VBA code used in this project.
 
 ## Requirements
 - Microsoft Excel with macro support enabled.
